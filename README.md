@@ -4,7 +4,7 @@
 
 ### Software Engineer · Backend Development · DevOps
 
-Computer Engineering Graduate | Java & Python
+Computer Engineering  | Java & Python
 
 [Portfolio](https://ealbayrk.github.io/ebrar-ai-assistant/) · [Medium](https://medium.com/@ealbayrk0) · [Email](mailto:ealbayrk0@gmail.com)
 
